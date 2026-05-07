@@ -17,4 +17,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # Mi Proyecto
 
-![Vista del proyecto](img/CalcularEdad.png)
+![Vista del proyecto](CalcularEdad.png)
